@@ -1,4 +1,4 @@
-# 🚀 Proyecto de lanzamientos de SpaceX
+# 🚀 Proyecto de lanzamientos de [SpaceX](https://spicex-astro.vercel.app/)
 
 ## Descripción General
 
@@ -13,3 +13,9 @@ Este proyecto, desarrollado con [Astro](https://astro.build/), tiene como objeti
 ## Objetivo del Proyecto
 
 Este proyecto fue creado con el propósito de aprender y aplicar los conceptos de desarrollo web utilizando Astro. Durante el proceso de construcción, se exploraron las capacidades de Astro para crear aplicaciones web eficientes y rápidas.
+
+## ⚙ Tecnologías
+
+- **Astro**
+- **TypeScript**
+- **Tailwind CSS**
